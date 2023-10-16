@@ -1,4 +1,11 @@
 # Google Cloud FUnction
 ## Starting a proyect
 
-Coenzar un nuevo proyecto en GCP
+Comenzar un nuevo proyecto en GCP
+
+## Instalacion de Python
+
+## install package desde requeriement.txt
+## pip install .r requieremnet.txt
+
+
